@@ -13,6 +13,7 @@ body {
 .container {
   margin: 0 auto;
   width: 960px;
+  height: 800px;
 }
 .main_title {
   font-family: "Lato", sans-serif;
@@ -103,24 +104,23 @@ body {
   width: 52%;
   padding: 10px 15px;
   box-sizing: border-box;
-  color: rgb(255, 255, 255);
+  color: rgba(0, 0, 0, 0.7);
   height: 42px;
   transition: all ease-out 0.3s;
 }
 hr {
   border-color: rgba(255, 255, 255, 0.3);
-  border-top: 1px solid;
 }
 .footer_info {
   font-family: "Lato", sans-serif;
-  color: rgb(255, 255, 255);
+  color: rgba(0, 0, 0, 0.7);
   text-align: right;
   font-size: 14px;
   cursor: default;
 }
 .dummy_text {
   font-family: "Lato", sans-serif;
-  margin-bottom: 30px;
-  color: rgb(60, 64, 67);
+  margin-bottom: 55px;
+  color: rgba(0, 0, 0, 0.7);
   cursor: default;
 }
