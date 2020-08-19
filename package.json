@@ -16,6 +16,7 @@
     "request": "^2.88.0"
   },
   "devDependencies": {
-    "nodemon": "^1.19.1"
+    "nodemon": "^1.19.1",
+    "dot-prop": ">=4.2.1"
   }
 }
